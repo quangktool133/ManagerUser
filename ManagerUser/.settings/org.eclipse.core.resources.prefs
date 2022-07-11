@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/manager/webapp/controller/AddPromotionController.java=UTF-8
+encoding//src/manager/webapp/controller/AddUserController.java=UTF-8
+encoding//src/manager/webapp/controller/EditProfileController.java=UTF-8
+encoding//src/manager/webapp/controller/EditUserController.java=UTF-8
+encoding//src/manager/webapp/controller/LoginController.java=UTF-8
+encoding//src/manager/webapp/jdbc/connectDB.java=UTF-8

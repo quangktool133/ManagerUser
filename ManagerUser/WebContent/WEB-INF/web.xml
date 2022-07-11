@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>ManagerUser</display-name>
+  <welcome-file-list>
+    <welcome-file>AdminLogin</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+       <servlet-name>AdminLogin</servlet-name>
+       <servlet-class>manager.webapp.controller.LoginController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>AdminLogin</servlet-name>
+       <url-pattern>/admin/login</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>UserList</servlet-name>
+       <servlet-class>manager.webapp.controller.UserListControler</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>UserList</servlet-name>
+       <url-pattern>/admin/user</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>AddUser</servlet-name>
+       <servlet-class>manager.webapp.controller.AddUserController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>AddUser</servlet-name>
+       <url-pattern>/admin/user/add</url-pattern>
+   </servlet-mapping>
+   <servlet>
+       <servlet-name>AdminLogout</servlet-name>
+       <servlet-class>manager.webapp.controller.LogoutController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>AdminLogout</servlet-name>
+       <url-pattern>/admin/logout</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>ChangeStatus</servlet-name>
+       <servlet-class>manager.webapp.controller.ChangeStatusController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>ChangeStatus</servlet-name>
+       <url-pattern>/admin/user/change</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>EditUser</servlet-name>
+       <servlet-class>manager.webapp.controller.EditUserController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>EditUser</servlet-name>
+       <url-pattern>/admin/user/edit</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>ListRoles</servlet-name>
+       <servlet-class>manager.webapp.controller.RoleListController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>ListRoles</servlet-name>
+       <url-pattern>/admin/role</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>AddRole</servlet-name>
+       <servlet-class>manager.webapp.controller.AddRoleController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>AddRole</servlet-name>
+       <url-pattern>/admin/role/add</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>EditRole</servlet-name>
+       <servlet-class>manager.webapp.controller.EditRoleController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>EditRole</servlet-name>
+       <url-pattern>/admin/role/edit</url-pattern>
+   </servlet-mapping>
+   
+   
+   <servlet>
+       <servlet-name>DelRole</servlet-name>
+       <servlet-class>manager.webapp.controller.DelRoleControler</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>DelRole</servlet-name>
+       <url-pattern>/admin/role/del</url-pattern>
+   </servlet-mapping>
+   
+    <servlet>
+       <servlet-name>PromotionList</servlet-name>
+       <servlet-class>manager.webapp.controller.PromotionListController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>PromotionList</servlet-name>
+       <url-pattern>/admin/promotion</url-pattern>
+   </servlet-mapping>
+    <servlet>
+       <servlet-name>PromotionAdd</servlet-name>
+       <servlet-class>manager.webapp.controller.AddPromotionController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>PromotionAdd</servlet-name>
+       <url-pattern>/admin/promotion/add</url-pattern>
+   </servlet-mapping>
+   
+       <servlet>
+       <servlet-name>PromotionEdit</servlet-name>
+       <servlet-class>manager.webapp.controller.EditPromotionController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>PromotionEdit</servlet-name>
+       <url-pattern>/admin/promotion/edit</url-pattern>
+   </servlet-mapping>
+   
+       <servlet>
+       <servlet-name>PromotionDel</servlet-name>
+       <servlet-class>manager.webapp.controller.DelPromotionControler</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>PromotionDel</servlet-name>
+       <url-pattern>/admin/promotion/del</url-pattern>
+   </servlet-mapping>
+   
+   <servlet>
+       <servlet-name>PromotionHistory</servlet-name>
+       <servlet-class>manager.webapp.controller.PromotionHistoryController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>PromotionHistory</servlet-name>
+       <url-pattern>/admin/promotion-history</url-pattern>
+   </servlet-mapping>
+   
+    <servlet>
+       <servlet-name>SearchControler</servlet-name>
+       <servlet-class>manager.webapp.controller.SearchController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>SearchControler</servlet-name>
+       <url-pattern>/admin/search</url-pattern>
+   </servlet-mapping>
+   
+     <servlet>
+       <servlet-name>EditProfile</servlet-name>
+       <servlet-class>manager.webapp.controller.EditProfileController</servlet-class>
+   </servlet>
+ 
+   <servlet-mapping>
+       <servlet-name>EditProfile</servlet-name>
+       <url-pattern>/user</url-pattern>
+   </servlet-mapping>
+   
+   
+</web-app>

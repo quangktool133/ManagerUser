@@ -1,0 +1,57 @@
+http://localhost:8080/WEB-INF/admin/login
+
+
+admin - admin
+user - abc
+
+
+D:\Lab web\Sum 22\Lab 1\ManagerUser\nbbuild\web\file
+
+http://localhost:8080/WEB-INF/admin/login
+
+
+admin - admin
+user - abc
+
+
+D:\Lab web\Sum 22\Lab 1\ManagerUser\nbbuild\web\file
+http://localhost:8080/WEB-INF/admin/login
+
+
+admin - admin
+user - abc
+
+
+D:\Lab web\Sum 22\Lab 1\ManagerUser\nbbuild\web\file
+http://localhost:8080/WEB-INF/admin/login
+
+
+admin - admin
+user - abc
+
+
+D:\Lab web\Sum 22\Lab 1\ManagerUser\nbbuild\web\file
+http://localhost:8080/WEB-INF/admin/login
+
+
+admin - admin
+user - abc
+
+
+D:\Lab web\Sum 22\Lab 1\ManagerUser\nbbuild\web\file
+http://localhost:8080/WEB-INF/admin/login
+
+
+admin - admin
+user - abc
+
+
+D:\Lab web\Sum 22\Lab 1\ManagerUser\nbbuild\web\file
+http://localhost:8080/WEB-INF/admin/login
+
+
+admin - admin
+user - abc
+
+
+D:\Lab web\Sum 22\Lab 1\ManagerUser\nbbuild\web\file

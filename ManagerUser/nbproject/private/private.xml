@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/admin/addpromotion.jsp</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/admin/show-search.jsp</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webbapp/util/Common.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/admin/show-user.jsp</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webbapp/util/FileUtil.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/dao/impl/PromotionDaoImpl.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/AddUserController.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/dao/PromotionDAO.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/admin/show-promotion.jsp</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/EditPromotionController.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/PromotionListController.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/dao/impl/PromotionHistoryDaoImpl.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/LoginController.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/dao/RoleDAO.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/RoleListController.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/DelRoleControler.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/AddPromotionController.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/UserListControler.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/PromotionHistoryController.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/jdbc/connectDB.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/admin/login.jsp</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/admin/assets/css/bootstrap.css</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/controller/DelPromotionControler.java</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/WEB-INF/web.xml</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/WebContent/admin/assets/css/app-style.css</file>
+            <file>file:/D:/Lab%20web/Sum%2022/Lab%201/ManagerUser/src/manager/webapp/model/PromotionHistory.java</file>
+        </group>
+    </open-files>
+</project-private>
